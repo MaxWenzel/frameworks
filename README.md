@@ -18,6 +18,9 @@ Frameworks and Libraries for the development
 - [D3.js](https://d3js.org/): library for manipulating documents based on data
 - [Slick](https://kenwheeler.github.io/slick/):  fully responsive, swipe-enabled, infinite looping, and more
 - [Popper](https://popper.js.org/): provides a reliable and extensible positioning engine you can use to ensure all your popper elements are positioned in the right place.
+- [Babel](https://babeljs.io/): a JavaScript compiler
+- []()
+
 
 ### Frameworks
 
@@ -30,7 +33,9 @@ Frameworks and Libraries for the development
 ### UI
 
 - [Bootstrap](https://getbootstrap.com/): popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins
-- []()
-- []()
-
+- [Material](https://material.io/): design system that helps teams build high-quality digital experiences.
+- [Semantic](https://semantic-ui.com/): a development framework that helps create beautiful, responsive layouts using human-friendly HTML
+- [Foundation](https://get.foundation/): most advanced responsive front-end framework in the world
+- [Font Awesome](https://fontawesome.com/): get vector icons and social logos on your website
+- [Bulma](https://bulma.io/): a free, open source CSS framework based on Flexbox
 
