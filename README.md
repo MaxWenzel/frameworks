@@ -25,13 +25,22 @@ Frameworks and Libraries for the development
 - []():
 - []():
 
+## Testing
+
+- [MockServer](https://www.mock-server.com/): easy mocking of any system you integrate with via HTTP or HTTPS
+- [Testcontainers](https://www.testcontainers.org/): a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [AssertJ](https://assertj.github.io/doc/): fluent assertions java library
+- [Mockito](https://site.mockito.org/): mocking framework for unit tests in Java
+- []():
+- []():
+
 ## Template Engines
 
 - [Rocker](https://github.com/fizzed/rocker): a Java 8 optimized (runtime compat with 6+), near zero-copy rendering, speedy template engine that produces statically typed, plain java object templates that are compiled along with the rest of your project.
 - [Thymeleaf](https://www.thymeleaf.org/): a modern server-side Java template engine for both web and standalone environments.
-- []():
-- []():
-- []():
+- [Freemarker](https://freemarker.apache.org/): a Java library to generate text output (HTML web pages, e-mails, configuration files, source code, etc.) based on templates and changing data
+- [Velocity](https://velocity.apache.org/): a Java-based template engine. It permits anyone to use a simple yet powerful template language to reference objects defined in Java code.
+
 
 ## JavaScript
 
