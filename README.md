@@ -4,6 +4,27 @@ Frameworks and Libraries for the development
 
 ## Java
 
+## MicroServer
+
+- [Helidon](https://helidon.io/#/): reactive WebServer provides a modern functional programming model and runs on top of Netty. From Oracle
+- [Quarkus](https://quarkus.io/):  Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards. From RedHat
+- [Micronaut](https://micronaut.io/): a modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications
+- [Javalin](https://javalin.io/): a simple web framework for Java and Kotlin
+- [Jooby](https://jooby.io/): is a modern, performant and easy to use web framework for Java and Kotlin built on top of your favorite web server.
+- [Spark](http://sparkjava.com/): a micro framework for creating web applications in Kotlin and Java 8 with minimal effort
+- [Spring Boot](https://spring.io/projects/spring-boot): Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+- []():
+- []():
+- []():
+- []():
+- []():
+- []():
+- []():
+- []():
+- []():
+- []():
+- []():
+
 ## JavaScript
 
 ### Misc
