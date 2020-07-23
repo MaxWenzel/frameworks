@@ -2,7 +2,7 @@
 
 Frameworks and Libraries for the development
 
-## Java
+## Java & Kotlin
 
 ## MicroServer
 
@@ -13,14 +13,22 @@ Frameworks and Libraries for the development
 - [Jooby](https://jooby.io/): is a modern, performant and easy to use web framework for Java and Kotlin built on top of your favorite web server.
 - [Spark](http://sparkjava.com/): a micro framework for creating web applications in Kotlin and Java 8 with minimal effort
 - [Spring Boot](https://spring.io/projects/spring-boot): Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+- [Vert.x](https://vertx.io/): a tool-kit for building reactive applications on the JVM
+- [Ratpack](https://ratpack.io/): a set of Java libraries for building scalable HTTP applications
+- [JHipster](https://www.jhipster.tech/): a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+- [http4k](https://www.http4k.org/): a lightweight but fully-featured HTTP toolkit written in pure Kotlin
+- [Ktor](https://ktor.io/): a framework for building asynchronous servers and clients in connected systems using the powerful Kotlin programming language
 - []():
 - []():
 - []():
 - []():
 - []():
 - []():
-- []():
-- []():
+
+## Template Engines
+
+- [Rocker](https://github.com/fizzed/rocker): a Java 8 optimized (runtime compat with 6+), near zero-copy rendering, speedy template engine that produces statically typed, plain java object templates that are compiled along with the rest of your project.
+- [Thymeleaf](https://www.thymeleaf.org/): a modern server-side Java template engine for both web and standalone environments.
 - []():
 - []():
 - []():
