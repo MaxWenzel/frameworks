@@ -25,6 +25,20 @@ Frameworks and Libraries for the development
 - []():
 - []():
 
+## Misc
+
+- [vavr](https://www.vavr.io/): vavr core is a functional library for Java. It helps to reduce the amount of code and to increase the robustness. 
+- []():
+- []():
+- []():
+
+## Reactive
+
+- [SmallRye Mutiny](https://smallrye.io/smallrye-mutiny/): a reactive programming library
+- [Project Reactor](https://projectreactor.io/): a fourth-generation reactive library, based on the Reactive Streams
+specification, for building non-blocking applications on the JVM
+- [akka](https://akka.io/): a toolkit for building highly concurrent, distributed, and resilient message-driven applications for Java and Scala
+
 ## Testing
 
 - [MockServer](https://www.mock-server.com/): easy mocking of any system you integrate with via HTTP or HTTPS
