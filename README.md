@@ -28,9 +28,9 @@ Frameworks and Libraries for the development
 ## Misc
 
 - [vavr](https://www.vavr.io/): vavr core is a functional library for Java. It helps to reduce the amount of code and to increase the robustness. 
-- []():
-- []():
-- []():
+- [Caffeine](https://github.com/ben-manes/caffeine): a high performance, near optimal caching library based on Java 8
+- [HikariCP](https://github.com/brettwooldridge/HikariCP): a "zero-overhead" production ready JDBC connection pool. At roughly 130Kb, the library is very light
+- [Bouny Castle](https://www.bouncycastle.org/): crypto library
 
 ## Reactive
 
@@ -38,6 +38,7 @@ Frameworks and Libraries for the development
 - [Project Reactor](https://projectreactor.io/): a fourth-generation reactive library, based on the Reactive Streams
 specification, for building non-blocking applications on the JVM
 - [akka](https://akka.io/): a toolkit for building highly concurrent, distributed, and resilient message-driven applications for Java and Scala
+- [RxJava](https://github.com/ReactiveX/RxJava): a Java VM implementation of Reactive Extensions: a library for composing asynchronous and event-based programs by using observable sequences
 
 ## Testing
 
@@ -45,8 +46,8 @@ specification, for building non-blocking applications on the JVM
 - [Testcontainers](https://www.testcontainers.org/): a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [AssertJ](https://assertj.github.io/doc/): fluent assertions java library
 - [Mockito](https://site.mockito.org/): mocking framework for unit tests in Java
-- []():
-- []():
+- [JUnit 5](https://junit.org/junit5/): the next generation of JUnit
+
 
 ## Template Engines
 
