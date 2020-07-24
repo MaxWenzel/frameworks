@@ -2,9 +2,16 @@
 
 Frameworks and Libraries for the development
 
+## Messaging
+
+- [RabbitMQ](https://www.rabbitmq.com/): popular open source message broker
+- [Kafka](https://kafka.apache.org/): a distributed streaming platform
+- []():
+- []():
+
 ## Java & Kotlin
 
-## MicroServer
+### MicroServer
 
 - [Helidon](https://helidon.io/#/): reactive WebServer provides a modern functional programming model and runs on top of Netty. From Oracle
 - [Quarkus](https://quarkus.io/):  Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards. From RedHat
@@ -18,21 +25,29 @@ Frameworks and Libraries for the development
 - [JHipster](https://www.jhipster.tech/): a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [http4k](https://www.http4k.org/): a lightweight but fully-featured HTTP toolkit written in pure Kotlin
 - [Ktor](https://ktor.io/): a framework for building asynchronous servers and clients in connected systems using the powerful Kotlin programming language
-- []():
+- [Dropwizard](https://www.dropwizard.io/en/latest/): pulls together stable, mature libraries from the Java ecosystem into a simple, light-weight package that lets you focus on getting things done
 - []():
 - []():
 - []():
 - []():
 - []():
 
-## Misc
+### Serializer
+
+- [Kryo](https://github.com/EsotericSoftware/kryo): a fast and efficient binary object graph serialization framework for Java
+- [Avro](https://avro.apache.org/): a data serialization system.
+- [Protocol Buffers](https://developers.google.com/protocol-buffers): Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data 
+- [Jackson](https://github.com/FasterXML): 
+
+### Misc
 
 - [vavr](https://www.vavr.io/): vavr core is a functional library for Java. It helps to reduce the amount of code and to increase the robustness. 
 - [Caffeine](https://github.com/ben-manes/caffeine): a high performance, near optimal caching library based on Java 8
 - [HikariCP](https://github.com/brettwooldridge/HikariCP): a "zero-overhead" production ready JDBC connection pool. At roughly 130Kb, the library is very light
 - [Bouny Castle](https://www.bouncycastle.org/): crypto library
+- [jOOQ](https://www.jooq.org/): generates Java code from your database and lets you build type safe SQL queries through its fluent API
 
-## Reactive
+### Reactive
 
 - [SmallRye Mutiny](https://smallrye.io/smallrye-mutiny/): a reactive programming library
 - [Project Reactor](https://projectreactor.io/): a fourth-generation reactive library, based on the Reactive Streams
@@ -40,7 +55,7 @@ specification, for building non-blocking applications on the JVM
 - [akka](https://akka.io/): a toolkit for building highly concurrent, distributed, and resilient message-driven applications for Java and Scala
 - [RxJava](https://github.com/ReactiveX/RxJava): a Java VM implementation of Reactive Extensions: a library for composing asynchronous and event-based programs by using observable sequences
 
-## Testing
+### Testing
 
 - [MockServer](https://www.mock-server.com/): easy mocking of any system you integrate with via HTTP or HTTPS
 - [Testcontainers](https://www.testcontainers.org/): a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
@@ -49,7 +64,12 @@ specification, for building non-blocking applications on the JVM
 - [JUnit 5](https://junit.org/junit5/): the next generation of JUnit
 
 
-## Template Engines
+### UI
+
+- [PrimeFace](https://www.primefaces.org/): a lightweight library with one jar, zero-configuration and no required dependencies
+- [Wicket](https://wicket.apache.org/): open source Java web framework servicing websites and applications 
+
+### Template Engines
 
 - [Rocker](https://github.com/fizzed/rocker): a Java 8 optimized (runtime compat with 6+), near zero-copy rendering, speedy template engine that produces statically typed, plain java object templates that are compiled along with the rest of your project.
 - [Thymeleaf](https://www.thymeleaf.org/): a modern server-side Java template engine for both web and standalone environments.
@@ -80,7 +100,8 @@ specification, for building non-blocking applications on the JVM
 - [Flutter](https://flutter.dev/): Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 - [React](https://reactjs.org/): JavaScript library for building user interfaces
 - [Vue.js](https://vuejs.org/):  a progressive framework for building user interfaces.
-- [Angular](https://angular.io/): an application design framework and development platform for creating efficient and sophisticated single-page apps.
+- [Preact](https://preactjs.com/): fast 3kB alternative to React with the same modern API
+- [Svelte](https://svelte.dev/): a radical new approach to building user interfaces
 
 
 ### UI
