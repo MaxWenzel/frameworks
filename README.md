@@ -119,8 +119,8 @@ specification, for building non-blocking applications on the JVM
 - [Preact](https://preactjs.com/): fast 3kB alternative to React with the same modern API
 - [Svelte](https://svelte.dev/): a radical new approach to building user interfaces
 - [Meteor](https://www.meteor.com/): an open source platform for web, mobile, and desktop
-- []():
-- []():
+- [Next.js](https://nextjs.org/):  a free and open source web application framework based on React.js, Node.js, webpack and Babel.js for building server-side rendered and/or static web applications using React
+- [Gatsby](https://www.gatsbyjs.org/): is a free and open source framework based on React that helps developers build blazing fast websites and apps
 - []():
 
 
