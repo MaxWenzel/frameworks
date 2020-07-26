@@ -45,7 +45,13 @@ Frameworks and Libraries for the development
 - [Caffeine](https://github.com/ben-manes/caffeine): a high performance, near optimal caching library based on Java 8
 - [HikariCP](https://github.com/brettwooldridge/HikariCP): a "zero-overhead" production ready JDBC connection pool. At roughly 130Kb, the library is very light
 - [Bouny Castle](https://www.bouncycastle.org/): crypto library
+
+### SQL
+
 - [jOOQ](https://www.jooq.org/): generates Java code from your database and lets you build type safe SQL queries through its fluent API
+- [Liquibase](https://www.liquibase.org/): an open source project that helps millions of developers rapidly manage database schema changes
+- [Flyway](https://flywaydb.org/): Version control for your database. Robust schema evolution across all your environments
+
 
 ### Reactive
 
