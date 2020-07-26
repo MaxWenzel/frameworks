@@ -39,6 +39,13 @@ Frameworks and Libraries for the development
 - [Protocol Buffers](https://developers.google.com/protocol-buffers): Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data 
 - [Jackson](https://github.com/FasterXML): 
 
+### Docker Pluins
+
+- [jib](https://github.com/GoogleContainerTools/jib): builds optimized Docker and OCI images for your Java applications without a Docker daemon - and without deep mastery of Docker best-practices
+- [Docker Gralde Plugin](https://github.com/palantir/gradle-docker): three Gradle plugins for working with Docker containers
+- [Docker Maven Plugin](https://github.com/fabric8io/docker-maven-plugin): a Maven plugin for building Docker images and managing containers for integration tests
+- [Gradle Docker Plugin](https://github.com/bmuschko/gradle-docker-plugin): Gradle plugin for managing Docker images and containers using the Docker remote API
+
 ### Misc
 
 - [vavr](https://www.vavr.io/): vavr core is a functional library for Java. It helps to reduce the amount of code and to increase the robustness. 
