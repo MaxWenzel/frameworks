@@ -37,7 +37,14 @@ Frameworks and Libraries for the development
 - [Kryo](https://github.com/EsotericSoftware/kryo): a fast and efficient binary object graph serialization framework for Java
 - [Avro](https://avro.apache.org/): a data serialization system.
 - [Protocol Buffers](https://developers.google.com/protocol-buffers): Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data 
-- [Jackson](https://github.com/FasterXML): 
+- [Jackson](https://github.com/FasterXML)
+
+### Mapping
+
+- [MapStruct](https://mapstruct.org/): a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach
+- [Orika](https://github.com/orika-mapper/orika): a Java Bean mapping framework that recursively copies (among other capabilities) data from one object to another
+- [fastJson](https://github.com/alibaba/fastjson): a Java library that can be used to convert Java Objects into their JSON representation. It can also be used to convert a JSON string to an equivalent Java object
+
 
 ### Docker Pluins
 
