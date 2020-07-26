@@ -121,7 +121,10 @@ specification, for building non-blocking applications on the JVM
 - [Parcel](https://parceljs.org/): blazing fast, zero configuration web application bundler
 - [Browserify](http://browserify.org/): lets you require('modules') in the browser by bundling up all of your dependencies
 - [Brunch](https://brunch.io/): build tool
-- []():
+
+### Rich Text Editor
+
+- [summernote](https://summernote.org/): WYSIWYG editor
 - []():
 - []():
 
