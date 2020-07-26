@@ -98,7 +98,17 @@ specification, for building non-blocking applications on the JVM
 - [Slick](https://kenwheeler.github.io/slick/):  fully responsive, swipe-enabled, infinite looping, and more
 - [Popper](https://popper.js.org/): provides a reliable and extensible positioning engine you can use to ensure all your popper elements are positioned in the right place.
 - [Babel](https://babeljs.io/): a JavaScript compiler
-- []()
+
+### Builder
+
+- [Webpack](https://webpack.github.io/): a modern JavaScript tool that serves as a static module bundler
+- [npm](https://www.npmjs.com/): build tool
+- [Parcel](https://parceljs.org/): blazing fast, zero configuration web application bundler
+- [Browserify](http://browserify.org/): lets you require('modules') in the browser by bundling up all of your dependencies
+- [Brunch](https://brunch.io/): build tool
+- []():
+- []():
+- []():
 
 
 ### Frameworks
@@ -108,6 +118,10 @@ specification, for building non-blocking applications on the JVM
 - [Vue.js](https://vuejs.org/):  a progressive framework for building user interfaces.
 - [Preact](https://preactjs.com/): fast 3kB alternative to React with the same modern API
 - [Svelte](https://svelte.dev/): a radical new approach to building user interfaces
+- [Meteor](https://www.meteor.com/): an open source platform for web, mobile, and desktop
+- []():
+- []():
+- []():
 
 
 ### UI
