@@ -98,6 +98,7 @@ specification, for building non-blocking applications on the JVM
 - [Slick](https://kenwheeler.github.io/slick/):  fully responsive, swipe-enabled, infinite looping, and more
 - [Popper](https://popper.js.org/): provides a reliable and extensible positioning engine you can use to ensure all your popper elements are positioned in the right place.
 - [Babel](https://babeljs.io/): a JavaScript compiler
+- [Sanity](https://www.sanity.io/): he fastest, most flexible platform for delivering content to digital devices and products 
 
 ### Builder
 
