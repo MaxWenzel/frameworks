@@ -133,3 +133,14 @@ specification, for building non-blocking applications on the JVM
 - [Font Awesome](https://fontawesome.com/): get vector icons and social logos on your website
 - [Bulma](https://bulma.io/): a free, open source CSS framework based on Flexbox
 
+### Complete Stack
+
+- [Next.js]():
+- [Chakra UI](https://chakra-ui.com/): a simple, modular and accessible component library that gives you all the building blocks you need to build your React applications
+- [Playroom](https://github.com/seek-oss/playroom): simultaneously design across a variety of themes and screen sizes, powered by JSX and your own component library.
+- [Storybook](https://storybook.js.org/): an open source tool for developing UI components in isolation for React, Vue, Angular, and more
+- [Playwright](https://github.com/microsoft/playwright): a Node library to automate Chromium, Firefox and WebKit with a single API.
+- [Preconstruct](https://github.com/preconstruct/preconstruct): dev and build your code painlessly in monorepos
+- [Manypkg](https://github.com/Thinkmill/manypkg): a linter for package.json files in Yarn, Bolt or pnpm monorepos
+- [ESLint](https://eslint.org/): find and fix problems in your JavaScript code
+- [Prettier](https://prettier.io/): an opinionated code formatter
