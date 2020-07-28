@@ -26,11 +26,7 @@ Frameworks and Libraries for the development
 - [http4k](https://www.http4k.org/): a lightweight but fully-featured HTTP toolkit written in pure Kotlin
 - [Ktor](https://ktor.io/): a framework for building asynchronous servers and clients in connected systems using the powerful Kotlin programming language
 - [Dropwizard](https://www.dropwizard.io/en/latest/): pulls together stable, mature libraries from the Java ecosystem into a simple, light-weight package that lets you focus on getting things done
-- []():
-- []():
-- []():
-- []():
-- []():
+
 
 ### Serializer
 
@@ -129,6 +125,7 @@ specification, for building non-blocking applications on the JVM
 ### Rich Text Editor
 
 - [summernote](https://summernote.org/): WYSIWYG editor
+- [Quill](https://quilljs.com/): powerful rich text editor 
 
 
 ## Testing
