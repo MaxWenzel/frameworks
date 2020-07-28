@@ -129,9 +129,13 @@ specification, for building non-blocking applications on the JVM
 ### Rich Text Editor
 
 - [summernote](https://summernote.org/): WYSIWYG editor
-- []():
-- []():
 
+
+## Testing
+
+- [Karma](https://karma-runner.github.io/latest/index.html): the main goal for Karma is to bring a productive testing environment to developers
+- [Jasmine](https://jasmine.github.io/): behavior-Driven JavaScript
+- [Selenium](https://www.selenium.dev/): a collection of language specific bindings to drive a browser
 
 ### Frameworks
 
