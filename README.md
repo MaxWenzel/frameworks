@@ -6,6 +6,7 @@ Frameworks and Libraries for the development
 
 - [RabbitMQ](https://www.rabbitmq.com/): popular open source message broker
 - [RocketMQ](https://github.com/alibaba/spring-cloud-alibaba/wiki/RocketMQ-en): an open-source distributed message system. It is based on highly available distributed cluster technologies and provides message publishing and subscription service with low latency and high stability
+- [ActiveMQ Artemis](https://activemq.apache.org/): an open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system
 - [Kafka](https://kafka.apache.org/): a distributed streaming platform
 - [Pulsar](https://pulsar.apache.org/): an open-source distributed pub-sub messaging system originally created at Yahoo and now part of the Apache Software Foundation
 
