@@ -38,6 +38,10 @@ Frameworks and Libraries for the development
 - [Avro](https://avro.apache.org/): a data serialization system.
 - [Protocol Buffers](https://developers.google.com/protocol-buffers): Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data 
 - [Jackson](https://github.com/FasterXML)
+- [Boon](https://github.com/boonproject/boon/wiki/Boon-JSON-in-five-minutes): is the probably the fastest way to serialize and parse JSON in Java so far for your project
+- [Gson](https://github.com/google/gson): a Java library that can be used to convert Java Objects into their JSON representation
+- [fast-serialization](https://github.com/RuedigerMoeller/fast-serialization): up to 10 times faster 100% JDK Serialization compatible drop-in replacement
+- [MicroStream](https://microstream.one/serialization): Next Generation Java Serialization
 
 ### Mapping
 
