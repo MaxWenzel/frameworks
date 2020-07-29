@@ -13,10 +13,18 @@ Frameworks and Libraries for the development
 
 ## Streaming
 
-- [Flink]():
-- [Spark]():
-- [Storm]():
-- [Spring Cloud Stream]():
+- [Flink](https://flink.apache.org/): a framework and distributed processing engine for stateful computations over unbounded and bounded data streams
+- [Spark](https://spark.apache.org/): a unified analytics engine for large-scale data processing
+- [Storm](https://storm.apache.org/): a free and open source distributed realtime computation system
+- [Spring Cloud Stream](https://spring.io/projects/spring-cloud-stream):  framework for building highly scalable event-driven microservices connected with shared messaging systems
+
+## RPC
+
+- [Finagle](https://github.com/twitter/finagle):  an extensible RPC system for the JVM, used to construct high-concurrency servers
+- [Dubbo](https://dubbo.apache.org/): a high-performance, java based open source RPC framework
+- [gRPC](https://grpc.io/): a high-performance, open source universal RPC framework
+- []():
+- []():
 
 ## Java & Kotlin
 
