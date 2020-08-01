@@ -113,6 +113,10 @@ specification, for building non-blocking applications on the JVM
 - [Freemarker](https://freemarker.apache.org/): a Java library to generate text output (HTML web pages, e-mails, configuration files, source code, etc.) based on templates and changing data
 - [Velocity](https://velocity.apache.org/): a Java-based template engine. It permits anyone to use a simple yet powerful template language to reference objects defined in Java code.
 
+## ByteCode
+
+- [ByteBuddy]()
+- [ASM](https://asm.ow2.io/):
 
 ## JavaScript
 
