@@ -120,16 +120,17 @@ specification, for building non-blocking applications on the JVM
 
 ## Machine Learning & AI
 
-### Python
+### Mix
 
 - [PyCaret](https://pycaret.org/): an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within minutes in your choice of notebook environment
-- [PyTorch](https://pytorch.org/):
+- [PyTorch](https://pytorch.org/): an open source machine learning framework that accelerates the path from research prototyping to production deployment
 - [Pandas](https://pandas.pydata.org/): a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language
 - [NumPy](https://numpy.org/): fundamental package for scientific computing with Python
 - [TensorFlow](https://www.tensorflow.org/): an end-to-end open source machine learning platform
 - [Keras](https://keras.io/): an API designed for human beings, not machines. Keras follows best practices for reducing cognitive load
-- []():
+- [MXNet](https://mxnet.apache.org/versions/1.6/): a open source deep learning framework suited for flexible research prototyping and production.
+- [Singa](https://singa.apache.org/): focusing on distributed training of deep learning and machine learning models
 
 ### Java
 
