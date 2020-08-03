@@ -118,6 +118,24 @@ specification, for building non-blocking applications on the JVM
 - [ByteBuddy]()
 - [ASM](https://asm.ow2.io/):
 
+## Machine Learning & AI
+
+### Python
+
+- [PyCaret](https://pycaret.org/): an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within minutes in your choice of notebook environment
+- [PyTorch](https://pytorch.org/):
+- [Pandas](https://pandas.pydata.org/): a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
+built on top of the Python programming language
+- [NumPy](https://numpy.org/): fundamental package for scientific computing with Python
+- [TensorFlow](https://www.tensorflow.org/): an end-to-end open source machine learning platform
+- [Keras](https://keras.io/): an API designed for human beings, not machines. Keras follows best practices for reducing cognitive load
+- []():
+
+### Java
+
+- [DL4J](https://deeplearning4j.org/): the first commercial-grade, open-source, distributed deep-learning library written for Java and Scala
+- []():
+
 ## JavaScript
 
 ### Misc
