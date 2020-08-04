@@ -77,12 +77,18 @@ Frameworks and Libraries for the development
 - [HikariCP](https://github.com/brettwooldridge/HikariCP): a "zero-overhead" production ready JDBC connection pool. At roughly 130Kb, the library is very light
 - [Bouny Castle](https://www.bouncycastle.org/): crypto library
 
-### SQL
+### Query Languages
+
+#### SQL
 
 - [jOOQ](https://www.jooq.org/): generates Java code from your database and lets you build type safe SQL queries through its fluent API
 - [Liquibase](https://www.liquibase.org/): an open source project that helps millions of developers rapidly manage database schema changes
 - [Flyway](https://flywaydb.org/): Version control for your database. Robust schema evolution across all your environments
 
+#### Misc
+
+- [GraphQL](https://graphql.org/): a query language for APIs and a runtime for fulfilling those queries with your existing data
+- [Cipher](https://neo4j.com/developer/cypher-basics-i/): Query language for Neo4j 
 
 ### Reactive
 
