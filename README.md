@@ -99,7 +99,7 @@ specification, for building non-blocking applications on the JVM
 - [AssertJ](https://assertj.github.io/doc/): fluent assertions java library
 - [Mockito](https://site.mockito.org/): mocking framework for unit tests in Java
 - [JUnit 5](https://junit.org/junit5/): the next generation of JUnit
-
+- [Togglz](https://www.togglz.org/): Feature Flags for the Java platform
 
 ### UI
 
