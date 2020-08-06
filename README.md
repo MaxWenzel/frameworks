@@ -121,8 +121,8 @@ specification, for building non-blocking applications on the JVM
 
 ## ByteCode
 
-- [ByteBuddy]()
-- [ASM](https://asm.ow2.io/):
+- [ByteBuddy](https://bytebuddy.net/#/): a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application and without the help of a compiler
+- [ASM](https://asm.ow2.io/): an all purpose Java bytecode manipulation and analysis framework
 
 ## Machine Learning & AI
 
@@ -143,9 +143,6 @@ built on top of the Python programming language
 - [DL4J](https://deeplearning4j.org/): the first commercial-grade, open-source, distributed deep-learning library written for Java and Scala
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/): open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API
 - [MOA](https://github.com/Waikato/moa): the most popular open source framework for data stream mining, with a very active growing community
-- []():
-- []():
-
 
 ## JavaScript
 
