@@ -23,8 +23,7 @@ Frameworks and Libraries for the development
 - [Finagle](https://github.com/twitter/finagle):  an extensible RPC system for the JVM, used to construct high-concurrency servers
 - [Dubbo](https://dubbo.apache.org/): a high-performance, java based open source RPC framework
 - [gRPC](https://grpc.io/): a high-performance, open source universal RPC framework
-- []():
-- []():
+
 
 ## Java & Kotlin
 
@@ -168,6 +167,13 @@ built on top of the Python programming language
 - [Parcel](https://parceljs.org/): blazing fast, zero configuration web application bundler
 - [Browserify](http://browserify.org/): lets you require('modules') in the browser by bundling up all of your dependencies
 - [Brunch](https://brunch.io/): build tool
+
+### Repository Manager
+
+- [Lerna](https://github.com/lerna/lerna): a tool for managing JavaScript projects with multiple packages.
+- [Bit](https://github.com/teambit/bit): platform for collaborating on components
+- [Nrwl-Nx](https://nx.dev/): a set of extensible dev tools for monorepos, which helps you develop like Google, Facebook, and Microsoft
+- []():
 
 ### Rich Text Editor
 
