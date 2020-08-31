@@ -17,6 +17,9 @@ Frameworks and Libraries for the development
 - [Spark](https://spark.apache.org/): a unified analytics engine for large-scale data processing
 - [Storm](https://storm.apache.org/): a free and open source distributed realtime computation system
 - [Spring Cloud Stream](https://spring.io/projects/spring-cloud-stream):  framework for building highly scalable event-driven microservices connected with shared messaging systems
+- [Apache Samze](https://samza.apache.org/): a distributed stream processing framework
+- [Google Dataflow](https://cloud.google.com/dataflow/): unified stream and batch data processing that's serverless, fast, and cost-effective.
+- [Apache Beam](https://beam.apache.org/): implement batch and streaming data processing jobs that run on any execution engine.
 
 ## Serverless
 
@@ -27,7 +30,17 @@ Frameworks and Libraries for the development
 - [TriggerMesh](https://triggermesh.com/): provides a real-time cloud native integration platform that allows you to connect services together to automate workflows and accelerate the flow of information across your organization.
 - [Nats](https://nats.io/): a simple, secure and high performance open source messaging system for cloud native applications, IoT messaging, and microservices architectures.
 
-## RPC
+## Protocol
+
+### Misc
+
+- [RSocket](https://rsocket.io/): Application protocol providing Reactive Streams semantics
+- [Aeron](https://github.com/real-logic/aeron): efficient reliable UDP unicast, UDP multicast, and IPC message transport. Java and C++ clients are available in this repository, and a .NET client is available from a 3rd party. 
+- []():
+- []():
+- []():
+
+### RPC
 
 - [Finagle](https://github.com/twitter/finagle):  an extensible RPC system for the JVM, used to construct high-concurrency servers
 - [Dubbo](https://dubbo.apache.org/): a high-performance, java based open source RPC framework
