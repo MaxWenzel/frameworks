@@ -18,6 +18,15 @@ Frameworks and Libraries for the development
 - [Storm](https://storm.apache.org/): a free and open source distributed realtime computation system
 - [Spring Cloud Stream](https://spring.io/projects/spring-cloud-stream):  framework for building highly scalable event-driven microservices connected with shared messaging systems
 
+## Serverless
+
+- [Flink Statefun](https://flink.apache.org/stateful-functions.html): an API that simplifies building distributed stateful applications. It’s based on functions with persistent state that can interact dynamically with strong consistency guarantees.
+- [Cloudstate](https://cloudstate.io/): allows developers to rapidly build stateful, highly scalable serverless applications.
+- [Dapr](https://github.com/dapr/dapr): a portable, serverless, event-driven runtime that makes it easy for developers to build resilient, stateless and stateful microservices that run on the cloud and edge and embraces the diversity of languages and developer frameworks.
+- [Argo](https://argoproj.github.io/): open source Kubernetes native workflows, events, CI and CD
+- [TriggerMesh](https://triggermesh.com/): provides a real-time cloud native integration platform that allows you to connect services together to automate workflows and accelerate the flow of information across your organization.
+- [Nats](https://nats.io/): a simple, secure and high performance open source messaging system for cloud native applications, IoT messaging, and microservices architectures.
+
 ## RPC
 
 - [Finagle](https://github.com/twitter/finagle):  an extensible RPC system for the JVM, used to construct high-concurrency servers
