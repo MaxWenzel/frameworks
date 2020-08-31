@@ -82,6 +82,7 @@ Frameworks and Libraries for the development
 - [Gson](https://github.com/google/gson): a Java library that can be used to convert Java Objects into their JSON representation
 - [fast-serialization](https://github.com/RuedigerMoeller/fast-serialization): up to 10 times faster 100% JDK Serialization compatible drop-in replacement
 - [MicroStream](https://microstream.one/serialization): Next Generation Java Serialization
+- [Thrift](http://thrift.apache.org/): scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
 
 ### Mapping
 
