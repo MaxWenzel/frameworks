@@ -112,6 +112,8 @@ specification, for building non-blocking applications on the JVM
 - [Mockito](https://site.mockito.org/): mocking framework for unit tests in Java
 - [JUnit 5](https://junit.org/junit5/): the next generation of JUnit
 - [Togglz](https://www.togglz.org/): Feature Flags for the Java platform
+- [ArchUnit](https://www.archunit.org/): a free, simple and extensible library for checking the architecture of your Java code using any plain Java unit test framework.
+- [JBehave](https://jbehave.org/): a framework for Behaviour-Driven Development (BDD). 
 
 ### UI
 
@@ -174,6 +176,8 @@ built on top of the Python programming language
 - [Parcel](https://parceljs.org/): blazing fast, zero configuration web application bundler
 - [Browserify](http://browserify.org/): lets you require('modules') in the browser by bundling up all of your dependencies
 - [Brunch](https://brunch.io/): build tool
+- [Rollup](https://rollupjs.org): a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
+ 
 
 ### Repository Manager
 
