@@ -192,6 +192,12 @@ built on top of the Python programming language
 - [Babel](https://babeljs.io/): a JavaScript compiler
 - [Sanity](https://www.sanity.io/): he fastest, most flexible platform for delivering content to digital devices and products 
 
+### AI
+
+- [Danfo](https://github.com/opensource9ja/danfojs): an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+- [Tensorflow](https://www.tensorflow.org/js): a library for machine learning in JavaScript
+- []():
+
 ### Builder
 
 - [Webpack](https://webpack.github.io/): a modern JavaScript tool that serves as a static module bundler
