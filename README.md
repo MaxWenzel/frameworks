@@ -27,6 +27,12 @@ Frameworks and Libraries for the development
 
 ## Java & Kotlin
 
+### JDK
+
+- [Amazon Corretto](https://aws.amazon.com/corretto): a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK)
+- [AdaptOpenJDK](https://adoptopenjdk.net/): AdoptOpenJDK uses infrastructure, build und test scripts to produce prebuilt binaries from OpenJDK™ class libraries and a choice of either OpenJDK or the Eclipse OpenJ9 VM.
+- [OpenJDK](https://openjdk.java.net/): open-source JDK
+
 ### MicroServer
 
 - [Helidon](https://helidon.io/#/): reactive WebServer provides a modern functional programming model and runs on top of Netty. From Oracle
@@ -99,6 +105,7 @@ specification, for building non-blocking applications on the JVM
 
 ### Testing
 
+- [WireMock](http://wiremock.org/): a simulator for HTTP-based APIs. Some might consider it a service virtualization tool or a mock server. 
 - [MockServer](https://www.mock-server.com/): easy mocking of any system you integrate with via HTTP or HTTPS
 - [Testcontainers](https://www.testcontainers.org/): a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [AssertJ](https://assertj.github.io/doc/): fluent assertions java library
@@ -186,6 +193,9 @@ built on top of the Python programming language
 - [Karma](https://karma-runner.github.io/latest/index.html): the main goal for Karma is to bring a productive testing environment to developers
 - [Jasmine](https://jasmine.github.io/): behavior-Driven JavaScript
 - [Selenium](https://www.selenium.dev/): a collection of language specific bindings to drive a browser
+- [Jest](https://jestjs.io/): a delightful JavaScript Testing Framework with a focus on simplicity.
+- [Nightwatch](https://nightwatchjs.org/): End-to-end testing, the easy way.
+- [Cypress](https://www.cypress.io/): fast, easy and reliable testing for anything that runs in a browser. 
 
 ### Frameworks
 
@@ -196,6 +206,7 @@ built on top of the Python programming language
 - [Svelte](https://svelte.dev/): a radical new approach to building user interfaces
 - [Meteor](https://www.meteor.com/): an open source platform for web, mobile, and desktop
 - [Next.js](https://nextjs.org/):  a free and open source web application framework based on React.js, Node.js, webpack and Babel.js for building server-side rendered and/or static web applications using React
+- [Nuxt.js](https://nuxtjs.org/): an open source framework based on Vue.js
 - [Gatsby](https://www.gatsbyjs.org/): is a free and open source framework based on React that helps developers build blazing fast websites and apps
 - [Node.js](https://nodejs.org/en/): a JavaScript runtime built on Chrome's V8 JavaScript engine
 - [Express](https://expressjs.com/): fast, unopinionated, minimalist web framework for Node.js
