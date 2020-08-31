@@ -169,6 +169,12 @@ built on top of the Python programming language
 - [MXNet](https://mxnet.apache.org/versions/1.6/): a open source deep learning framework suited for flexible research prototyping and production.
 - [Singa](https://singa.apache.org/): focusing on distributed training of deep learning and machine learning models
 
+### JavaScript
+
+- [Danfo](https://github.com/opensource9ja/danfojs): an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+- [Tensorflow](https://www.tensorflow.org/js): a library for machine learning in JavaScript
+- []():
+
 ### Java
 
 - [DL4J](https://deeplearning4j.org/): the first commercial-grade, open-source, distributed deep-learning library written for Java and Scala
@@ -192,11 +198,6 @@ built on top of the Python programming language
 - [Babel](https://babeljs.io/): a JavaScript compiler
 - [Sanity](https://www.sanity.io/): he fastest, most flexible platform for delivering content to digital devices and products 
 
-### AI
-
-- [Danfo](https://github.com/opensource9ja/danfojs): an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
-- [Tensorflow](https://www.tensorflow.org/js): a library for machine learning in JavaScript
-- []():
 
 ### Builder
 
