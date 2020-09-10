@@ -53,7 +53,7 @@ Frameworks and Libraries for the development
 
 - [Amazon Corretto](https://aws.amazon.com/corretto): a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK)
 - [AdaptOpenJDK](https://adoptopenjdk.net/): AdoptOpenJDK uses infrastructure, build und test scripts to produce prebuilt binaries from OpenJDK™ class libraries and a choice of either OpenJDK or the Eclipse OpenJ9 VM.
-- [OpenJDK](https://openjdk.java.net/): open-source JDK
+- [OpenJDK](https://github.com/openjdk): open-source JDK
 
 ### MicroServer
 
