@@ -137,6 +137,12 @@ specification, for building non-blocking applications on the JVM
 - [Togglz](https://www.togglz.org/): Feature Flags for the Java platform
 - [ArchUnit](https://www.archunit.org/): a free, simple and extensible library for checking the architecture of your Java code using any plain Java unit test framework.
 - [JBehave](https://jbehave.org/): a framework for Behaviour-Driven Development (BDD). 
+- [FitNesse](http://docs.fitnesse.org/FrontPage): fully integrated standalone wiki and acceptance testing framework
+- [Pact](https://docs.pact.io/): a code-first tool for testing HTTP and message integrations using contract tests.
+
+## Security Tests
+
+- [ZAP](https://www.zaproxy.org/):  a free, open-source penetration testing tool being maintained under the umbrella of the Open Web Application Security Project (OWASP).
 
 ### UI
 
