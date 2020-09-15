@@ -174,6 +174,7 @@ built on top of the Python programming language
 - [Keras](https://keras.io/): an API designed for human beings, not machines. Keras follows best practices for reducing cognitive load
 - [MXNet](https://mxnet.apache.org/versions/1.6/): a open source deep learning framework suited for flexible research prototyping and production.
 - [Singa](https://singa.apache.org/): focusing on distributed training of deep learning and machine learning models
+- [Matplotlib](https://matplotlib.org/): a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
 ### JavaScript
 
