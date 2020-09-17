@@ -36,9 +36,7 @@ Frameworks and Libraries for the development
 
 - [RSocket](https://rsocket.io/): Application protocol providing Reactive Streams semantics
 - [Aeron](https://github.com/real-logic/aeron): efficient reliable UDP unicast, UDP multicast, and IPC message transport. Java and C++ clients are available in this repository, and a .NET client is available from a 3rd party. 
-- []():
-- []():
-- []():
+
 
 ### RPC
 
@@ -105,6 +103,9 @@ Frameworks and Libraries for the development
 - [Caffeine](https://github.com/ben-manes/caffeine): a high performance, near optimal caching library based on Java 8
 - [HikariCP](https://github.com/brettwooldridge/HikariCP): a "zero-overhead" production ready JDBC connection pool. At roughly 130Kb, the library is very light
 - [Bouny Castle](https://www.bouncycastle.org/): crypto library
+- [JavaLite](https://javalite.io/): a cohesive collection of frameworks designed from ground up to add pleasure back to your daily life
+- []():
+- []():
 
 ### Query Languages
 
