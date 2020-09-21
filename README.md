@@ -163,6 +163,11 @@ specification, for building non-blocking applications on the JVM
 - [ByteBuddy](https://bytebuddy.net/#/): a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application and without the help of a compiler
 - [ASM](https://asm.ow2.io/): an all purpose Java bytecode manipulation and analysis framework
 
+## MS-Office
+
+- [Apache POI](https://poi.apache.org/): Excel
+- [docx4j](https://www.docx4java.org/trac/docx4j): Word
+
 ## Machine Learning & AI
 
 ### Mix
