@@ -55,6 +55,7 @@ Frameworks and Libraries for the development
 
 ### MicroServer
 
+- [Open Liberty](https://openliberty.io/): a lightweight open framework for building fast and efficient cloud-native Java microservices.
 - [ActiveJ](https://activej.io/): an alternative Java platform built from the ground up as a replacement of Spring, Spark, Quarkus, Micronauts, and other solutions.
 - [Helidon](https://helidon.io/#/): reactive WebServer provides a modern functional programming model and runs on top of Netty. From Oracle
 - [Quarkus](https://quarkus.io/):  Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards. From RedHat
