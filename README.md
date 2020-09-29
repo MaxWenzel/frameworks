@@ -44,6 +44,10 @@ Frameworks and Libraries for the development
 - [Dubbo](https://dubbo.apache.org/): a high-performance, java based open source RPC framework
 - [gRPC](https://grpc.io/): a high-performance, open source universal RPC framework
 
+## Python
+
+- [Django](https://www.djangoproject.com/):  a high-level Python Web framework that encourages rapid development and clean, pragmatic design. 
+- [Flask](https://flask.palletsprojects.com/): a Python web framework built with a small core and easy-to-extend philosophy.
 
 ## Java & Kotlin
 
@@ -232,6 +236,9 @@ specification, for building non-blocking applications on the JVM
 - [Gatsby](https://www.gatsbyjs.org/): is a free and open source framework based on React that helps developers build blazing fast websites and apps
 - [Node.js](https://nodejs.org/en/): a JavaScript runtime built on Chrome's V8 JavaScript engine
 - [Express](https://expressjs.com/): fast, unopinionated, minimalist web framework for Node.js
+- [Koa](https://koajs.com/): a new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
+- [Nest](https://nestjs.com/): a progressive Node.js framework for building efficient, reliable and scalable server-side applications.
+
 
 ### UI
 
