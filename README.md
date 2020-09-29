@@ -146,6 +146,7 @@ specification, for building non-blocking applications on the JVM
 - [JBehave](https://jbehave.org/): a framework for Behaviour-Driven Development (BDD). 
 - [FitNesse](http://docs.fitnesse.org/FrontPage): fully integrated standalone wiki and acceptance testing framework
 - [Pact](https://docs.pact.io/): a code-first tool for testing HTTP and message integrations using contract tests.
+- [JUnit Pioneer](https://github.com/junit-pioneer/junit-pioneer): a melting pot for all kinds of extensions to JUnit 5, particular to its Jupiter API.
 
 ## Security Tests
 
