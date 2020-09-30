@@ -49,6 +49,11 @@ Frameworks and Libraries for the development
 - [Django](https://www.djangoproject.com/):  a high-level Python Web framework that encourages rapid development and clean, pragmatic design. 
 - [Flask](https://flask.palletsprojects.com/): a Python web framework built with a small core and easy-to-extend philosophy.
 
+### Package Manager
+
+- [Poetry](https://github.com/python-poetry/poetry): helps you declare, manage and install dependencies of Python projects, ensuring you have the right stack everywhere.
+- [pip](https://pip.pypa.io/en/stable/): the package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.
+
 ## Java & Kotlin
 
 ### JDK
