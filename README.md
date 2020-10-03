@@ -114,8 +114,7 @@ Frameworks and Libraries for the development
 - [HikariCP](https://github.com/brettwooldridge/HikariCP): a "zero-overhead" production ready JDBC connection pool. At roughly 130Kb, the library is very light
 - [Bouny Castle](https://www.bouncycastle.org/): crypto library
 - [JavaLite](https://javalite.io/): a cohesive collection of frameworks designed from ground up to add pleasure back to your daily life
-- []():
-- []():
+- [Jsoup](https://jsoup.org/): a Java library for working with real-world HTML.
 
 ### Query Languages
 
