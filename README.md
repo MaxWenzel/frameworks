@@ -180,10 +180,10 @@ specification, for building non-blocking applications on the JVM
 - [Mockneat ](https://github.com/nomemory/mockneat): a simple but powerful (fluent) API that enables developers to create json, xml, csv and sql data programatically.
 - [Spock](https://github.com/spockframework/spock): a BDD-style developer testing and specification framework for Java and Groovy applications.
 
-## Reliability
+## Resilience
 
 - [Failsafe](https://github.com/jhalterman/failsafe):  a lightweight, zero-dependency library for handling failures in Java 8+, with a concise API for handling everyday use cases and the flexibility to handle everything else. 
--[Resilience4j ](https://github.com/resilience4j/resilience4j): a lightweight fault tolerance library inspired by Netflix Hystrix, but designed for Java 8 and functional programming. 
+- [Resilience4j](https://github.com/resilience4j/resilience4j): a lightweight fault tolerance library inspired by Netflix Hystrix, but designed for Java 8 and functional programming. 
 
 ## Security Tests
 
