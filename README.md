@@ -169,6 +169,8 @@ specification, for building non-blocking applications on the JVM
 - [Mockito](https://site.mockito.org/): mocking framework for unit tests in Java
 - [JUnit 5](https://junit.org/junit5/): the next generation of JUnit
 - [Togglz](https://www.togglz.org/): Feature Flags for the Java platform
+- [jQAssistant](https://jqassistant.org/):  a QA tool, which allows the definition and validation of project specific rules on a structural level. 
+- [Sotograph](https://www.hello2morrow.com/products/sotograph): detects a wide range of potential problems and gathers information about many quality aspects. 
 - [ArchUnit](https://www.archunit.org/): a free, simple and extensible library for checking the architecture of your Java code using any plain Java unit test framework.
 - [JBehave](https://jbehave.org/): a framework for Behaviour-Driven Development (BDD). 
 - [FitNesse](http://docs.fitnesse.org/FrontPage): fully integrated standalone wiki and acceptance testing framework
