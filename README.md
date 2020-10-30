@@ -49,6 +49,7 @@ Frameworks and Libraries for the development
 - [Django](https://www.djangoproject.com/):  a high-level Python Web framework that encourages rapid development and clean, pragmatic design. 
 - [Flask](https://flask.palletsprojects.com/): a Python web framework built with a small core and easy-to-extend philosophy.
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/): provides a few simple methods and Pythonic idioms for navigating, searching, and modifying a parse tree
+- [FastAPI](https://fastapi.tiangolo.com/): a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
 ### Package Manager
 
