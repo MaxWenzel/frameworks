@@ -9,6 +9,7 @@ Frameworks and Libraries for the development
 - [ActiveMQ Artemis](https://activemq.apache.org/): an open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system
 - [Kafka](https://kafka.apache.org/): a distributed streaming platform
 - [Pulsar](https://pulsar.apache.org/): an open-source distributed pub-sub messaging system originally created at Yahoo and now part of the Apache Software Foundation
+- [NATS.io](https://nats.io/):  an open source, lightweight, high-performance cloud native infrastructure messaging system.
 
 
 ## Streaming
