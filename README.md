@@ -51,6 +51,9 @@ Frameworks and Libraries for the development
 - [Flask](https://flask.palletsprojects.com/): a Python web framework built with a small core and easy-to-extend philosophy.
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/): provides a few simple methods and Pythonic idioms for navigating, searching, and modifying a parse tree
 - [FastAPI](https://fastapi.tiangolo.com/): a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+- [Pyctuator](https://github.com/SolarEdgeTech/pyctuator): monitor Python web apps using Spring Boot Admin
+- [Tornado](https://www.tornadoweb.org/en/stable/): a Python web framework and asynchronous networking library, originally developed at FriendFeed. By using non-blocking network I/O, Tornado can scale to tens of thousands of open connections, making it ideal for long polling, WebSockets, and other applications that require a long-lived connection to each user.
+- [aiohttp](https://docs.aiohttp.org/en/stable/): asynchronous HTTP Client/Server for asyncio and Python.
 
 ### Package Manager
 
