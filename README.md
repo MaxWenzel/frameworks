@@ -277,6 +277,7 @@ specification, for building non-blocking applications on the JVM
 
 ### Frameworks
 
+- [Alpine.js](https://github.com/alpinejs/alpine): offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost. You get to keep your DOM, and sprinkle in behavior as you see fit.
 - [Flutter](https://flutter.dev/): Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 - [React](https://reactjs.org/): JavaScript library for building user interfaces
 - [Vue.js](https://vuejs.org/):  a progressive framework for building user interfaces.
@@ -300,6 +301,7 @@ specification, for building non-blocking applications on the JVM
 - [Foundation](https://get.foundation/): most advanced responsive front-end framework in the world
 - [Font Awesome](https://fontawesome.com/): get vector icons and social logos on your website
 - [Bulma](https://bulma.io/): a free, open source CSS framework based on Flexbox
+- [Tailwind](https://tailwindcss.com/): a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.
 
 ### Complete Stack
 
