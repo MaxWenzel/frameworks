@@ -209,6 +209,7 @@ specification, for building non-blocking applications on the JVM
 - [Thymeleaf](https://www.thymeleaf.org/): a modern server-side Java template engine for both web and standalone environments.
 - [Freemarker](https://freemarker.apache.org/): a Java library to generate text output (HTML web pages, e-mails, configuration files, source code, etc.) based on templates and changing data
 - [Velocity](https://velocity.apache.org/): a Java-based template engine. It permits anyone to use a simple yet powerful template language to reference objects defined in Java code.
+- [jte](https://jte.gg/): a fast and lightweight template engine for Java (!)
 
 ## ByteCode
 
