@@ -240,6 +240,11 @@ specification, for building non-blocking applications on the JVM
 - [Sanity](https://www.sanity.io/): he fastest, most flexible platform for delivering content to digital devices and products 
 - [Flow](https://flow.org/):  a static type checker for your JavaScript code
 
+### Utility
+
+- [underscore](https://underscorejs.org/): a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
+- [Lodash](https://lodash.com/): a modern JavaScript utility library delivering modularity, performance & extras
+- [Radmda.js](https://ramdajs.com/): a practical functional library for JavaScript programmers
 
 ### Builder
 
