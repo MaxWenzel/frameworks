@@ -193,6 +193,7 @@ specification, for building non-blocking applications on the JVM
 
 - [Failsafe](https://github.com/jhalterman/failsafe):  a lightweight, zero-dependency library for handling failures in Java 8+, with a concise API for handling everyday use cases and the flexibility to handle everything else. 
 - [Resilience4j](https://github.com/resilience4j/resilience4j): a lightweight fault tolerance library inspired by Netflix Hystrix, but designed for Java 8 and functional programming. 
+-[Bucket4j](https://github.com/vladimir-bukhtoyarov/bucket4j): Java rate-limiting library based on token-bucket algorithm 
 
 ## Security Tests
 
