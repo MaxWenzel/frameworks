@@ -179,6 +179,7 @@ specification, for building non-blocking applications on the JVM
 - [Sotograph](https://www.hello2morrow.com/products/sotograph): detects a wide range of potential problems and gathers information about many quality aspects. 
 - [ArchUnit](https://www.archunit.org/): a free, simple and extensible library for checking the architecture of your Java code using any plain Java unit test framework.
 - [JBehave](https://jbehave.org/): a framework for Behaviour-Driven Development (BDD). 
+- [Gauge](https://gauge.org/): a free and open source test automation framework that takes the pain out of acceptance testing 
 - [FitNesse](http://docs.fitnesse.org/FrontPage): fully integrated standalone wiki and acceptance testing framework
 - [Pact](https://docs.pact.io/): a code-first tool for testing HTTP and message integrations using contract tests.
 - [JUnit Pioneer](https://github.com/junit-pioneer/junit-pioneer): a melting pot for all kinds of extensions to JUnit 5, particular to its Jupiter API.
@@ -281,6 +282,7 @@ specification, for building non-blocking applications on the JVM
 - [TestCafe](https://devexpress.github.io/testcafe/): a node.js tool to automate end-to-end web testing
 - [Mocha](https://mochajs.org/): a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun.
 - [Chai](https://www.chaijs.com/):  a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
+- [Taiko](https://taiko.dev/): an open source node.js library for testing modern web applications 
 
 ### Frameworks
 
