@@ -196,13 +196,13 @@ specification, for building non-blocking applications on the JVM
 - [Spock](https://github.com/spockframework/spock): a BDD-style developer testing and specification framework for Java and Groovy applications.
 - [Pakt](https://docs.pact.io/): a code-first tool for testing HTTP and message integrations using contract tests. Contract tests assert that inter-application messages conform to a shared understanding that is documented in a contract.
 
-## Resilience
+### Resilience
 
 - [Failsafe](https://github.com/jhalterman/failsafe):  a lightweight, zero-dependency library for handling failures in Java 8+, with a concise API for handling everyday use cases and the flexibility to handle everything else. 
 - [Resilience4j](https://github.com/resilience4j/resilience4j): a lightweight fault tolerance library inspired by Netflix Hystrix, but designed for Java 8 and functional programming. 
 -[Bucket4j](https://github.com/vladimir-bukhtoyarov/bucket4j): Java rate-limiting library based on token-bucket algorithm 
 
-## Security Tests
+### Security Tests
 
 - [ZAP](https://www.zaproxy.org/):  a free, open-source penetration testing tool being maintained under the umbrella of the Open Web Application Security Project (OWASP).
 
@@ -225,13 +225,13 @@ specification, for building non-blocking applications on the JVM
 - [Velocity](https://velocity.apache.org/): a Java-based template engine. It permits anyone to use a simple yet powerful template language to reference objects defined in Java code.
 - [jte](https://jte.gg/): a fast and lightweight template engine for Java (!)
 
-## ByteCode / CodeGeneration
+### ByteCode / CodeGeneration
 
 - [ByteBuddy](https://bytebuddy.net/#/): a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application and without the help of a compiler
 - [ASM](https://asm.ow2.io/): an all purpose Java bytecode manipulation and analysis framework
 - [JavaPoet](https://github.com/square/javapoet):  a Java API for generating .java source files
 
-## MS-Office
+### MS-Office
 
 - [Apache POI](https://poi.apache.org/): Excel
 - [docx4j](https://www.docx4java.org/trac/docx4j): Word
