@@ -211,6 +211,12 @@ specification, for building non-blocking applications on the JVM
 - [PrimeFace](https://www.primefaces.org/): a lightweight library with one jar, zero-configuration and no required dependencies
 - [Wicket](https://wicket.apache.org/): open source Java web framework servicing websites and applications 
 
+### API
+
+- [Problem](https://github.com/zalando/problem): a library that implements application/problem+json. It comes with an extensible set of interfaces/implementations as well as convenient functions for every day use
+- [HAL Explorer](https://github.com/toedter/hal-explorer): you can browse and explore HAL and HAL-FORMS based RESTful Hypermedia APIs
+
+
 ### Template Engines
 
 - [Rocker](https://github.com/fizzed/rocker): a Java 8 optimized (runtime compat with 6+), near zero-copy rendering, speedy template engine that produces statically typed, plain java object templates that are compiled along with the rest of your project.
@@ -219,10 +225,11 @@ specification, for building non-blocking applications on the JVM
 - [Velocity](https://velocity.apache.org/): a Java-based template engine. It permits anyone to use a simple yet powerful template language to reference objects defined in Java code.
 - [jte](https://jte.gg/): a fast and lightweight template engine for Java (!)
 
-## ByteCode
+## ByteCode / CodeGeneration
 
 - [ByteBuddy](https://bytebuddy.net/#/): a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application and without the help of a compiler
 - [ASM](https://asm.ow2.io/): an all purpose Java bytecode manipulation and analysis framework
+- [JavaPoet](https://github.com/square/javapoet):  a Java API for generating .java source files
 
 ## MS-Office
 
