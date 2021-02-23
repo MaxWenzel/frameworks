@@ -263,13 +263,13 @@ specification, for building non-blocking applications on the JVM
 
 ### Builder
 
+- [Vite](https://github.com/vitejs/vite): a new breed of frontend build tool that significantly improves the frontend development experience. 
 - [Webpack](https://webpack.github.io/): a modern JavaScript tool that serves as a static module bundler
 - [npm](https://www.npmjs.com/): build tool
 - [Parcel](https://parceljs.org/): blazing fast, zero configuration web application bundler
 - [Browserify](http://browserify.org/): lets you require('modules') in the browser by bundling up all of your dependencies
 - [Brunch](https://brunch.io/): build tool
 - [Rollup](https://rollupjs.org): a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
- 
 
 ### Repository Manager
 
