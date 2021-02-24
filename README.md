@@ -176,6 +176,7 @@ specification, for building non-blocking applications on the JVM
 
 - [WireMock](http://wiremock.org/): a simulator for HTTP-based APIs. Some might consider it a service virtualization tool or a mock server. 
 - [MockServer](https://www.mock-server.com/): easy mocking of any system you integrate with via HTTP or HTTPS
+- [MockWebServer](https://github.com/square/okhttp/tree/master/mockwebserver): a scriptable web server for testing HTTP clients (super easy to use with Spring Boot)
 - [Testcontainers](https://www.testcontainers.org/): a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [AssertJ](https://assertj.github.io/doc/): fluent assertions java library
 - [Mockito](https://site.mockito.org/): mocking framework for unit tests in Java
