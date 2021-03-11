@@ -59,7 +59,7 @@ Frameworks and Libraries for the development
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/): provides a few simple methods and Pythonic idioms for navigating, searching, and modifying a parse tree
 - [Scrapy](https://github.com/scrapy/scrapy): a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages
 - [Requests](https://github.com/psf/requests): a simple, yet elegant HTTP library.
-
+- [Pillow](https://pillow.readthedocs.io/en/stable/): the Python Imaging Library adds image processing capabilities to your Python interpreter.
 
 ### Package Manager
 
