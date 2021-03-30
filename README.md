@@ -144,6 +144,7 @@ Frameworks and Libraries for the development
 - [picocli](https://picocli.info/): a mighty tiny command line interface
 - [RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap): compressed bitmaps which tend to outperform conventional compressed bitmaps such as WAH, EWAH or Concise.
 - [Antora](https://antora.org/): a multi-repository documentation site generator for tech writers who loves writing in AsciiDoc.
+- [Google Auto](https://github.com/google/auto): a collection of source code generators for Java.
 
 ### Scheduler
 
