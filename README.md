@@ -2,6 +2,13 @@
 
 Frameworks and Libraries for the development
 
+## Event Sourcing
+
+- [Event Store](https://www.eventstore.com/): an industrial-strength database technology used as the central data store for event-sourced systems. It is available open-source to run locally on most platforms or as SaaS through Event Store Cloud.
+- [Lagom](https://www.lagomframework.com/): n open source framework for building systems of Reactive microservices in Java or Scala. Lagom builds on Akka and Play, proven technologies that are in production in some of the most demanding applications today.
+- [Axon](https://axoniq.io/)
+- [Eventuate](https://eventuate.io/): a platform that solves the distributed data management problems inherent in a microservice architecture enabling you focus on your business logic.
+
 ## Forecast
 
 - [Greykite](https://github.com/linkedin/greykite): a flexible, intuitive and fast forecasting library
