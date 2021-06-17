@@ -187,6 +187,7 @@ specification, for building non-blocking applications on the JVM
 
 ### Testing
 
+- [REST Assured](https://rest-assured.io/): brings the simplicity of using these languages into the Java domain.
 - [WireMock](http://wiremock.org/): a simulator for HTTP-based APIs. Some might consider it a service virtualization tool or a mock server. 
 - [MockServer](https://www.mock-server.com/): easy mocking of any system you integrate with via HTTP or HTTPS
 - [MockWebServer](https://github.com/square/okhttp/tree/master/mockwebserver): a scriptable web server for testing HTTP clients (super easy to use with Spring Boot)
