@@ -9,6 +9,13 @@ Frameworks and Libraries for the development
 - [Axon](https://axoniq.io/)
 - [Eventuate](https://eventuate.io/): a platform that solves the distributed data management problems inherent in a microservice architecture enabling you focus on your business logic.
 
+## API Gateways
+
+- [Kong Gateway](https://konghq.com/kong/): a popular API gateway. Built for hybrid and multi-cloud, optimized for microservices and distributed architectures.
+- [Netflix Zuul](https://github.com/Netflix/zuul): a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+- [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway): Gateway built on Spring Framework 5.x and Spring Boot 2.x providing routing and more.
+- [Apollo GraphQL](https://www.apollographql.com/): n open-source, spec-compliant GraphQL server that's compatible with any GraphQL client, including Apollo Client. It's the best way to build a production-ready, self-documenting GraphQL API that can use data from any source.
+
 ## Forecast
 
 - [Greykite](https://github.com/linkedin/greykite): a flexible, intuitive and fast forecasting library
