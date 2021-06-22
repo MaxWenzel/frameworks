@@ -100,6 +100,13 @@ Frameworks and Libraries for the development
 - [AdaptOpenJDK](https://adoptopenjdk.net/): AdoptOpenJDK uses infrastructure, build und test scripts to produce prebuilt binaries from OpenJDK™ class libraries and a choice of either OpenJDK or the Eclipse OpenJ9 VM.
 - [OpenJDK](https://github.com/openjdk): open-source JDK
 
+### Logging
+
+- [Simple Logging Facade for Java (SLF4J)](http://www.slf4j.org/): serves as a simple facade or abstraction for various logging frameworks (e.g. java.util.logging, logback, log4j) allowing the end user to plug in the desired logging framework at deployment time.
+- [Logback](http://logback.qos.ch/): s intended as a successor to the popular log4j project, picking up where log4j leaves off.
+- [Apache Log4j 2](https://logging.apache.org/log4j/2.x/): an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback’s architecture.
+- JDK Logging (JUL) 
+
 ### Injection
 
 - [Dagger](https://github.com/google/dagger): a fast dependency injector for Java and Android.
