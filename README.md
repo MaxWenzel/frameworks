@@ -9,6 +9,13 @@ Frameworks and Libraries for the development
 - [Axon](https://axoniq.io/)
 - [Eventuate](https://eventuate.io/): a platform that solves the distributed data management problems inherent in a microservice architecture enabling you focus on your business logic.
 
+## Security
+
+- [Keycloak](https://www.keycloak.org/): add authentication to applications and secure services with minimum fuss. No need to deal with storing users or authenticating users. It's all available out of the box.
+- [Shiro](https://shiro.apache.org/): a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management. With Shiro’s easy-to-understand API, you can quickly and easily secure any application – from the smallest mobile applications to the largest web and enterprise applications.
+- [Spring Security](https://spring.io/projects/spring-security): a powerful and highly customizable authentication and access-control framework. It is the de-facto standard for securing Spring-based applications.
+- [Passport](http://www.passportjs.org/): an authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+
 ## API Gateways
 
 - [Kong Gateway](https://konghq.com/kong/): a popular API gateway. Built for hybrid and multi-cloud, optimized for microservices and distributed architectures.
