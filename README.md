@@ -282,6 +282,7 @@ specification, for building non-blocking applications on the JVM
 
 ### Misc
 
+- [Paged.js](https://www.pagedjs.org/): a free and open source JavaScript library that paginates content in the browser to create PDF output from any HTML content. This means you can design works for print (eg. books) using HTML and CSS!
 - [Leafletjs](https://leafletjs.com/): an open-source JavaScript library for mobile-friendly interactive maps
 - [fullPage](https://alvarotrigo.com/fullPage/): open-source library helps you create full-screen scrolling websites
 - [anime](https://animejs.com/): a lightweight JavaScript animation library with a simple, yet powerful API
