@@ -282,6 +282,7 @@ specification, for building non-blocking applications on the JVM
 
 ### Misc
 
+- [Yjs](https://github.com/yjs/yjs): a CRDT implementation that exposes its internal data structure as shared types. Shared types are common data types like Map or Array with superpowers: changes are automatically distributed to other peers and merged without merge conflicts.
 - [Paged.js](https://www.pagedjs.org/): a free and open source JavaScript library that paginates content in the browser to create PDF output from any HTML content. This means you can design works for print (eg. books) using HTML and CSS!
 - [Leafletjs](https://leafletjs.com/): an open-source JavaScript library for mobile-friendly interactive maps
 - [fullPage](https://alvarotrigo.com/fullPage/): open-source library helps you create full-screen scrolling websites
