@@ -225,6 +225,7 @@ specification, for building non-blocking applications on the JVM
 - [Mockneat ](https://github.com/nomemory/mockneat): a simple but powerful (fluent) API that enables developers to create json, xml, csv and sql data programatically.
 - [Spock](https://github.com/spockframework/spock): a BDD-style developer testing and specification framework for Java and Groovy applications.
 - [Awaitility](https://github.com/awaitility/awaitility): small Java DSL for synchronizing asynchronous operations
+- [MailHog](https://github.com/mailhog/MailHog): Web and API based SMTP testing
 
 ### Integration Tests
 
