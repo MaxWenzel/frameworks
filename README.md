@@ -9,6 +9,12 @@ Frameworks and Libraries for the development
 - [Axon](https://axoniq.io/)
 - [Eventuate](https://eventuate.io/): a platform that solves the distributed data management problems inherent in a microservice architecture enabling you focus on your business logic.
 
+## Configuration
+
+- [Apache Commons Configuration](https://commons.apache.org/proper/commons-configuration/): a generic configuration interface which enables a Java application to read configuration data from a variety of sources.
+- [Lightbend Config](https://github.com/lightbend/config): configuration library for JVM languages using HOCON files
+- [cfg4j](http://www.cfg4j.org/): configuration library for distributed apps written in Java.
+
 ## Security
 
 - [Keycloak](https://www.keycloak.org/): add authentication to applications and secure services with minimum fuss. No need to deal with storing users or authenticating users. It's all available out of the box.
