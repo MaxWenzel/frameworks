@@ -102,9 +102,12 @@ Frameworks and Libraries for the development
 
 ### JDK
 
+- [Eclipse Adoptium](https://adoptium.net/): Eclipse Temurin is the name of the OpenJDK distribution from Adoptium
 - [Amazon Corretto](https://aws.amazon.com/corretto): a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK)
 - [AdaptOpenJDK](https://adoptopenjdk.net/): AdoptOpenJDK uses infrastructure, build und test scripts to produce prebuilt binaries from OpenJDK™ class libraries and a choice of either OpenJDK or the Eclipse OpenJ9 VM.
 - [OpenJDK](https://github.com/openjdk): open-source JDK
+- [Azul](https://www.azul.com/): open source, fully tested and certified, Java SE standards-compliant, well-curated Azul Zulu builds of OpenJDK
+- [SapMachine](https://sap.github.io/SapMachine/): an OpenJDK release maintained and supported by SAP
 
 ### Logging
 
