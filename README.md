@@ -378,6 +378,7 @@ specification, for building non-blocking applications on the JVM
 - [Font Awesome](https://fontawesome.com/): get vector icons and social logos on your website
 - [Bulma](https://bulma.io/): a free, open source CSS framework based on Flexbox
 - [Tailwind](https://tailwindcss.com/): a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.
+- [Simple.css](https://simplecss.org/): a classless CSS framework that allows you to make a good looking website really quickly.
 
 ### Complete Stack
 
