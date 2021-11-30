@@ -198,6 +198,9 @@ Frameworks and Libraries for the development
 #### SQL
 
 - [jOOQ](https://www.jooq.org/): generates Java code from your database and lets you build type safe SQL queries through its fluent API
+- [Doma](https://doma.readthedocs.io/en/latest/#):  a database access framework for Java 8+.
+- [Jdbi](https://jdbi.org/): provides convenient, idiomatic access to relational data in Java. 
+- [Querydsl](https://querydsl.com/): a framework which enables the construction of statically typed SQL-like queries.
 - [Liquibase](https://www.liquibase.org/): an open source project that helps millions of developers rapidly manage database schema changes
 - [Flyway](https://flywaydb.org/): Version control for your database. Robust schema evolution across all your environments
 - [Hikari](https://github.com/brettwooldridge/HikariCP): a "zero-overhead" production ready JDBC connection pool.
