@@ -20,6 +20,7 @@ Frameworks and Libraries for the development
 - [Keycloak](https://www.keycloak.org/): add authentication to applications and secure services with minimum fuss. No need to deal with storing users or authenticating users. It's all available out of the box.
 - [Shiro](https://shiro.apache.org/): a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management. With Shiro’s easy-to-understand API, you can quickly and easily secure any application – from the smallest mobile applications to the largest web and enterprise applications.
 - [Spring Security](https://spring.io/projects/spring-security): a powerful and highly customizable authentication and access-control framework. It is the de-facto standard for securing Spring-based applications.
+- [Pac4J](https://www.pac4j.org/): security library for Java
 - [Passport](http://www.passportjs.org/): an authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
 
 ## API Gateways
@@ -279,6 +280,9 @@ specification, for building non-blocking applications on the JVM
 - [Freemarker](https://freemarker.apache.org/): a Java library to generate text output (HTML web pages, e-mails, configuration files, source code, etc.) based on templates and changing data
 - [Velocity](https://velocity.apache.org/): a Java-based template engine. It permits anyone to use a simple yet powerful template language to reference objects defined in Java code.
 - [jte](https://jte.gg/): a fast and lightweight template engine for Java (!)
+- [Peeble](https://pebbletemplates.io/): a Java templating engine inspired by Twig and similar to the Python Jinja Template Engine syntax. It features templates inheritance and easy-to-read syntax, ships with built-in autoescaping for security, and includes integrated support for internationalization.
+- [handlebars](https://handlebarsjs.com/): a simple templating language.
+- [Trimou](http://trimou.org/): a Mustache templating engine implementation written in Java. Helper API inspired by Handlebars.js is also included. The goal is to provide a simple to use and easy to extend templating engine for any Java SE or Java EE application.
 
 ### ByteCode / CodeGeneration
 
