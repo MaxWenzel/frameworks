@@ -152,6 +152,7 @@ Frameworks and Libraries for the development
 
 ### Serializer
 
+- [MessagePack](https://msgpack.org/): an efficient binary serialization format. It lets you exchange data among multiple languages like JSON.
 - [Kryo](https://github.com/EsotericSoftware/kryo): a fast and efficient binary object graph serialization framework for Java
 - [Avro](https://avro.apache.org/): a data serialization system.
 - [Protocol Buffers](https://developers.google.com/protocol-buffers): Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data 
