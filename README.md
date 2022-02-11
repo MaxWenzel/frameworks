@@ -245,6 +245,7 @@ specification, for building non-blocking applications on the JVM
 - [Spock](https://github.com/spockframework/spock): a BDD-style developer testing and specification framework for Java and Groovy applications.
 - [Awaitility](https://github.com/awaitility/awaitility): small Java DSL for synchronizing asynchronous operations
 - [MailHog](https://github.com/mailhog/MailHog): Web and API based SMTP testing
+- [datafaker](https://www.datafaker.net/): generate fake data for your JVM programs within minutes, using our wide range of more than 100 data providers. Get started in minutes.
 
 ### Integration Tests
 
