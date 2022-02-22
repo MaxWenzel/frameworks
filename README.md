@@ -364,7 +364,7 @@ specification, for building non-blocking applications on the JVM
 - [Chai](https://www.chaijs.com/):  a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 - [Taiko](https://taiko.dev/): an open source node.js library for testing modern web applications 
 
-### Frameworks
+## Frameworks
 
 - [Alpine.js](https://github.com/alpinejs/alpine): offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost. You get to keep your DOM, and sprinkle in behavior as you see fit.
 - [Flutter](https://flutter.dev/): Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
@@ -382,7 +382,7 @@ specification, for building non-blocking applications on the JVM
 - [Nest](https://nestjs.com/): a progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 
 
-### UI
+## UI
 
 - [Bootstrap](https://getbootstrap.com/): popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins
 - [Material](https://material.io/): design system that helps teams build high-quality digital experiences.
@@ -393,7 +393,9 @@ specification, for building non-blocking applications on the JVM
 - [Tailwind](https://tailwindcss.com/): a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.
 - [Simple.css](https://simplecss.org/): a classless CSS framework that allows you to make a good looking website really quickly.
 
-### Complete Stack
+## Complete Stacks
+
+### Frontend
 
 - [Next.js]():
 - [Chakra UI](https://chakra-ui.com/): a simple, modular and accessible component library that gives you all the building blocks you need to build your React applications
@@ -404,3 +406,13 @@ specification, for building non-blocking applications on the JVM
 - [Manypkg](https://github.com/Thinkmill/manypkg): a linter for package.json files in Yarn, Bolt or pnpm monorepos
 - [ESLint](https://eslint.org/): find and fix problems in your JavaScript code
 - [Prettier](https://prettier.io/): an opinionated code formatter
+
+### Observability
+
+- [Prometheus](https://prometheus.io/): metrics and alerting
+- [Promtail](https://grafana.com/docs/loki/latest/clients/promtail/): an agent which ships the contents of local logs to a private Grafana Loki instance or Grafana Cloud. It is usually deployed to every machine that has applications needed to be monitored.
+- [Loki](https://grafana.com/oss/loki/):  a horizontally scalable, highly available, multi-tenant log aggregation system inspired by Prometheus. It is designed to be very cost effective and easy to operate. It does not index the contents of the logs, but rather a set of labels for each log stream.
+- [Grafana](https://grafana.com/): operational dashboards
+- [Tempo](https://grafana.com/oss/tempo/): an open source, easy-to-use, and high-scale distributed tracing backend. Tempo is cost-efficient, requiring only object storage to operate, and is deeply integrated with Grafana, Prometheus, and Loki. Tempo can ingest common open source tracing protocols, including Jaeger, Zipkin, and OpenTelemetry.
+oder
+- [Jaeger](https://www.jaegertracing.io/): open source, end-to-end distributed tracing
