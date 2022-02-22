@@ -414,5 +414,4 @@ specification, for building non-blocking applications on the JVM
 - [Loki](https://grafana.com/oss/loki/):  a horizontally scalable, highly available, multi-tenant log aggregation system inspired by Prometheus. It is designed to be very cost effective and easy to operate. It does not index the contents of the logs, but rather a set of labels for each log stream.
 - [Grafana](https://grafana.com/): operational dashboards
 - [Tempo](https://grafana.com/oss/tempo/): an open source, easy-to-use, and high-scale distributed tracing backend. Tempo is cost-efficient, requiring only object storage to operate, and is deeply integrated with Grafana, Prometheus, and Loki. Tempo can ingest common open source tracing protocols, including Jaeger, Zipkin, and OpenTelemetry.
-oder
 - [Jaeger](https://www.jaegertracing.io/): open source, end-to-end distributed tracing
