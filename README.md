@@ -415,3 +415,9 @@ specification, for building non-blocking applications on the JVM
 - [Grafana](https://grafana.com/): operational dashboards
 - [Tempo](https://grafana.com/oss/tempo/): an open source, easy-to-use, and high-scale distributed tracing backend. Tempo is cost-efficient, requiring only object storage to operate, and is deeply integrated with Grafana, Prometheus, and Loki. Tempo can ingest common open source tracing protocols, including Jaeger, Zipkin, and OpenTelemetry.
 - [Jaeger](https://www.jaegertracing.io/): open source, end-to-end distributed tracing
+
+### JOOQ
+
+- Flyway
+- testcontainers
+- [Gradle Docker jOOQ Plugin](https://github.com/revolut-engineering/jooq-plugin): Plugin for generating jOOQ classes using dockerized databases
