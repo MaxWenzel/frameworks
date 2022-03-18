@@ -278,6 +278,10 @@ specification, for building non-blocking applications on the JVM
 - [Problem](https://github.com/zalando/problem): a library that implements application/problem+json. It comes with an extensible set of interfaces/implementations as well as convenient functions for every day use
 - [HAL Explorer](https://github.com/toedter/hal-explorer): you can browse and explore HAL and HAL-FORMS based RESTful Hypermedia APIs
 
+### Static code analysis
+
+- [Error Prone](https://github.com/google/error-prone): Catch common Java mistakes as compile-time errors
+- [JaCoCo](https://www.eclemma.org/jacoco/): a free code coverage library for Java.
 
 ### Template Engines
 
