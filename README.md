@@ -368,6 +368,7 @@ specification, for building non-blocking applications on the JVM
 - [Mocha](https://mochajs.org/): a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun.
 - [Chai](https://www.chaijs.com/):  a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 - [Taiko](https://taiko.dev/): an open source node.js library for testing modern web applications 
+- [Playwright](https://playwright.dev/): enables reliable end-to-end testing for modern web apps.
 
 ## Frameworks
 
