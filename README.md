@@ -15,6 +15,9 @@ Frameworks and Libraries for the development
 - [Chaos Monkey](https://github.com/netflix/chaosmonkey): Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [Swabbie](https://github.com/spinnaker/swabbie): automates the cleanup of unused resources such as EBS Volumes and Images. As a Janitor Monkey replacement, it can also be extended to clean up a variety of resource types.
 
+## Cloud Support
+
+- [jClouds](https://jclouds.apache.org/): an open source multi-cloud toolkit for the Java platform that gives you the freedom to create applications that are portable across clouds while giving you full control to use cloud-specific features.
 
 ## Event Sourcing
 
@@ -168,6 +171,7 @@ Frameworks and Libraries for the development
 - [Ktor](https://ktor.io/): a framework for building asynchronous servers and clients in connected systems using the powerful Kotlin programming language
 - [Dropwizard](https://www.dropwizard.io/en/latest/): pulls together stable, mature libraries from the Java ecosystem into a simple, light-weight package that lets you focus on getting things done
 - [Pippo](http://www.pippo.ro/): micro web framework in Java, with minimal dependencies and a quick learning curve. The goal of this project is to create a micro web framework in Java that should be easy to use and hack. 
+- [Apache Mina](https://mina.apache.org/): a network application framework which helps users develop high performance and high scalability network applications easily. It provides an abstract event-driven asynchronous API over various transports such as TCP/IP and UDP/IP via Java NIO.
 
 ### Serializer
 
