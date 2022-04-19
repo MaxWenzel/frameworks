@@ -2,12 +2,31 @@
 
 Frameworks and Libraries for the development
 
+## Architecture Support
+
+- [ArchUnit](https://www.archunit.org/): a free, simple and extensible library for checking the architecture of your Java code using any plain Java unit test framework. 
+- [JDepend](https://github.com/clarkware/jdepend): package dependency analyzer that generates design quality metrics.
+- [Moduliths](https://github.com/moduliths/moduliths): building modular, monolithic applications using Spring Boot
+- [jQAssistant ](https://jqassistant.org/): a QA tool, which allows the definition and validation of project specific rules on a structural level. It is built upon the graph database Neo4j and can easily be plugged into the build process to automate detection of constraint violations and generate reports about user defined concepts and metrics.
+- [Structurizr ](https://structurizr.com/): builds upon "diagrams as code", allowing you to create multiple diagrams from a single model, using a number of tools and programming languages.
+- [xMolecules](https://github.com/xmolecules): architectural abstractions in code. 
+- [jMolecules](https://github.com/xmolecules/jmolecules): Libraries to help developers express architectural abstractions in Java code
+- [Simian Army](https://github.com/Netflix/SimianArmy): Tools for keeping your cloud operating in top form. Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+- [Chaos Monkey](https://github.com/netflix/chaosmonkey): Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+- [Swabbie](https://github.com/spinnaker/swabbie): automates the cleanup of unused resources such as EBS Volumes and Images. As a Janitor Monkey replacement, it can also be extended to clean up a variety of resource types.
+
+
 ## Event Sourcing
 
 - [Event Store](https://www.eventstore.com/): an industrial-strength database technology used as the central data store for event-sourced systems. It is available open-source to run locally on most platforms or as SaaS through Event Store Cloud.
 - [Lagom](https://www.lagomframework.com/): n open source framework for building systems of Reactive microservices in Java or Scala. Lagom builds on Akka and Play, proven technologies that are in production in some of the most demanding applications today.
 - [Axon](https://axoniq.io/)
 - [Eventuate](https://eventuate.io/): a platform that solves the distributed data management problems inherent in a microservice architecture enabling you focus on your business logic.
+
+## Integration
+
+- [Apache Camel](https://camel.apache.org/): n Open Source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+- [Spring Integration](https://spring.io/projects/spring-integration): enables lightweight messaging within Spring-based applications and supports integration with external systems via declarative adapters.
 
 ## Configuration
 
