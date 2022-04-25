@@ -222,6 +222,14 @@ Frameworks and Libraries for the development
 - [ShedLock ](https://github.com/lukas-krecan/ShedLock): hedLock makes sure that your scheduled tasks are executed at most once at the same time. 
 - [Quartz ](http://www.quartz-scheduler.org/): open source job scheduling library that can be integrated within virtually any Java application - from the smallest stand-alone application to the largest e-commerce system.
 
+### Workflow
+
+- [Activiti](https://www.activiti.org/): lightweight, java-centric open-source BPMN engine supporting real-world process automation needs.
+- [Camunda](https://camunda.com/): Universal Process Orchestrator
+- [Apache Airflow](https://airflow.apache.org/): a platform created by the community to programmatically author, schedule and monitor workflows.
+- [jBPM](https://www.jbpm.org/):  a toolkit for building business applications to help automate business processes and decisions.
+- [Flowable](https://www.flowable.com/): Business Automation
+
 ### Query Languages
 
 #### SQL
