@@ -188,6 +188,14 @@ Frameworks and Libraries for the development
 - [JsonPath](https://github.com/json-path/JsonPath): a Java port of Stefan Goessner JsonPath implementation.
 - [protostuff](https://github.com/protostuff/protostuff): a java serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
 
+#### Schema
+
+- [AsyncAPI ](https://www.asyncapi.com/): an open source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). 
+- [CloudEvents](https://cloudevents.io/): a specification for describing event data in common formats to provide interoperability across services, platforms and systems.
+- [Avro](https://avro.apache.org/):  a data serialization system.
+- [protolock](https://github.com/nilslice/protolock): Protocol Buffer companion tool. Track your .proto files and prevent changes to messages and services which impact API compatibility.
+- [json-schema-diff-validator](https://www.npmjs.com/package/json-schema-diff-validator): allows comparision of two versions of schema file and detect any breaking change.
+
 ### Mapping
 
 - [MapStruct](https://mapstruct.org/): a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach
