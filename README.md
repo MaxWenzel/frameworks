@@ -143,6 +143,8 @@ Frameworks and Libraries for the development
 
 ### Logging
 
+- [Google Flogger](https://github.com/google/flogger): A Fluent Logging API for Java
+- [Chronicle Logger](https://github.com/OpenHFT/Chronicle-Logger): A sub microsecond java logger, supporting standard logging APIs such as Slf & Log4J
 - [Simple Logging Facade for Java (SLF4J)](http://www.slf4j.org/): serves as a simple facade or abstraction for various logging frameworks (e.g. java.util.logging, logback, log4j) allowing the end user to plug in the desired logging framework at deployment time.
 - [Logback](http://logback.qos.ch/): s intended as a successor to the popular log4j project, picking up where log4j leaves off.
 - [Apache Log4j 2](https://logging.apache.org/log4j/2.x/): an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback’s architecture.
