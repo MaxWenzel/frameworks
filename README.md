@@ -223,6 +223,9 @@ Frameworks and Libraries for the development
 
 ### Misc
 
+- [StreamEx](https://github.com/amaembo/streamex): enhancing Java Stream API
+- [Kaitai](https://kaitai.io/): a declarative language used to describe various binary data structures, laid out in files or in memory: i.e. binary file formats, network stream packet formats, etc.
+- [Nitrite](https://www.dizitart.org/nitrite-database.html): an open source nosql embedded document store written in Java with MongoDB like API. It supports both in-memory and single file based persistent store.
 - [vavr](https://www.vavr.io/): vavr core is a functional library for Java. It helps to reduce the amount of code and to increase the robustness. 
 - [Eclipse Collections](https://www.eclipse.org/collections/): the best Java collections framework ever that brings happiness to your Java development.
 - [Caffeine](https://github.com/ben-manes/caffeine): a high performance, near optimal caching library based on Java 8
