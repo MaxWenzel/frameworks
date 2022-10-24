@@ -223,6 +223,11 @@ Frameworks and Libraries for the development
 
 ### Misc
 
+- [JavaMelody](https://github.com/javamelody/javamelody): monitoring of JavaEE applications
+- [Manifold](http://manifold.systems/): a Java compiler plugin
+- [Jericho](http://jericho.htmlparser.net/docs/index.html): Web parser
+- []():
+- []():
 - [StreamEx](https://github.com/amaembo/streamex): enhancing Java Stream API
 - [Kaitai](https://kaitai.io/): a declarative language used to describe various binary data structures, laid out in files or in memory: i.e. binary file formats, network stream packet formats, etc.
 - [Nitrite](https://www.dizitart.org/nitrite-database.html): an open source nosql embedded document store written in Java with MongoDB like API. It supports both in-memory and single file based persistent store.
@@ -279,6 +284,8 @@ specification, for building non-blocking applications on the JVM
 
 ### Testing
 
+- [EasyRandom](https://github.com/j-easy/easy-random): simple, stupid random Java beans/records generator
+- [Mocknet](https://github.com/nomemory/mockneat): an arbitrary data-generator open-source library written in Java.
 - [jqwik](https://jqwik.net/): Property-Based Testing in Java
 - [AssertJ](https://assertj.github.io/doc/): fluent assertions java library
 - [Mockito](https://site.mockito.org/): mocking framework for unit tests in Java
