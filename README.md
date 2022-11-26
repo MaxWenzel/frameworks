@@ -75,6 +75,11 @@ Frameworks and Libraries for the development
 - [Pulsar](https://pulsar.apache.org/): an open-source distributed pub-sub messaging system originally created at Yahoo and now part of the Apache Software Foundation
 - [NATS.io](https://nats.io/):  an open source, lightweight, high-performance cloud native infrastructure messaging system.
 
+## Hash
+
+- [hash4j](https://github.com/dynatrace-oss/hash4j): Dynatrace hash library for Java
+- [Zero-Allocation Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing): Zero-allocation hashing for Java
+- [crypto](https://github.com/appmattus/crypto): A collection of Kotlin Multiplatform Mobile cryptographic hashing functions
 
 ## Streaming
 
