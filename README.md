@@ -331,6 +331,7 @@ specification, for building non-blocking applications on the JVM
 - [Resilience4j](https://github.com/resilience4j/resilience4j): a lightweight fault tolerance library inspired by Netflix Hystrix, but designed for Java 8 and functional programming. 
 - [Bucket4j](https://github.com/vladimir-bukhtoyarov/bucket4j): Java rate-limiting library based on token-bucket algorithm 
 - Guava Ratelimiter
+- [RateLimitJ](https://github.com/mokies/ratelimitj): a Java library for Rate-Limiting, providing extensible storage and application framework adaptors.
 
 ### Security Tests
 
