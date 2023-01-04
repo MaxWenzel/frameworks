@@ -122,6 +122,7 @@ Frameworks and Libraries for the development
 - [Pyctuator](https://github.com/SolarEdgeTech/pyctuator): monitor Python web apps using Spring Boot Admin
 - [Tornado](https://www.tornadoweb.org/en/stable/): a Python web framework and asynchronous networking library, originally developed at FriendFeed. By using non-blocking network I/O, Tornado can scale to tens of thousands of open connections, making it ideal for long polling, WebSockets, and other applications that require a long-lived connection to each user.
 - [aiohttp](https://docs.aiohttp.org/en/stable/): asynchronous HTTP Client/Server for asyncio and Python.
+- [HTTPX](https://www.python-httpx.org/): a fully featured HTTP client for Python 3, which provides sync and async APIs, and support for both HTTP/1.1 and HTTP/2.
 
 ### Misc
 
