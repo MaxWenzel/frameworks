@@ -35,6 +35,12 @@ Frameworks and Libraries for the development
 - [Axon](https://axoniq.io/)
 - [Eventuate](https://eventuate.io/): a platform that solves the distributed data management problems inherent in a microservice architecture enabling you focus on your business logic.
 
+## Graph-QL
+
+- [Netflix Java GraphQL Client](https://netflix.github.io/dgs/advanced/java-client/)
+- [GraphQl Java Client](https://graphql.org/code/#java-kotlin)
+- [Spring for GraphQL](https://spring.io/projects/spring-graphql)
+
 ## Integration
 
 - [Apache Camel](https://camel.apache.org/): n Open Source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
