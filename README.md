@@ -384,6 +384,12 @@ specification, for building non-blocking applications on the JVM
 
 ## JavaScript
 
+### Platform
+
+- [Bun](https://bun.sh/): a fast all-in-one JavaScript runtime
+- [Deno](https://deno.land/): a JavaScript, TypeScript, and WebAssembly runtime with secure defaults and a great developer experience. It's built on V8, Rust, and Tokio.
+- [Node](https://nodejs.org/en/): an open-source, cross-platform JavaScript runtime environment.
+
 ### Misc
 
 - [Yjs](https://github.com/yjs/yjs): a CRDT implementation that exposes its internal data structure as shared types. Shared types are common data types like Map or Array with superpowers: changes are automatically distributed to other peers and merged without merge conflicts.
@@ -423,7 +429,6 @@ specification, for building non-blocking applications on the JVM
 - [Lerna](https://github.com/lerna/lerna): a tool for managing JavaScript projects with multiple packages.
 - [Bit](https://github.com/teambit/bit): platform for collaborating on components
 - [Nrwl-Nx](https://nx.dev/): a set of extensible dev tools for monorepos, which helps you develop like Google, Facebook, and Microsoft
-- []():
 
 ### Rich Text Editor
 
