@@ -318,6 +318,7 @@ specification, for building non-blocking applications on the JVM
 - [Awaitility](https://github.com/awaitility/awaitility): small Java DSL for synchronizing asynchronous operations
 - [MailHog](https://github.com/mailhog/MailHog): Web and API based SMTP testing
 - [datafaker](https://www.datafaker.net/): generate fake data for your JVM programs within minutes, using our wide range of more than 100 data providers. Get started in minutes.
+- [Instancio](https://www.instancio.org/): a Java library for automating data setup in unit tests.
 - [Selenide](https://selenide.org/index.html): a framework for UI-test automation powered by Selenium WebDriver.
 
 
