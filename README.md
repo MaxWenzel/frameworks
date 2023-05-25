@@ -161,6 +161,7 @@ Frameworks and Libraries for the development
 - [Logback](http://logback.qos.ch/): s intended as a successor to the popular log4j project, picking up where log4j leaves off.
 - [Apache Log4j 2](https://logging.apache.org/log4j/2.x/): an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback’s architecture.
 - JDK Logging (JUL) 
+- [Zalando Logbook](https://github.com/zalando/logbook)
 
 ### Release
 
