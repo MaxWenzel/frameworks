@@ -324,7 +324,7 @@ specification, for building non-blocking applications on the JVM
 - [Instancio](https://www.instancio.org/): a Java library for automating data setup in unit tests.
 - [Selenide](https://selenide.org/index.html): a framework for UI-test automation powered by Selenium WebDriver.
 - [WebTau](https://github.com/testingisdocumenting/webtau): a testing API, command line tool and a framework to write unit, integration and end-to-end tests. Test across REST-API, WebSocket, GraphQL, Browser, Database, CLI and Business Logic with a consistent set of matchers and concepts. 
-
+- [Citrus](https://citrusframework.org/): Framework for automated integration tests supporting a wide range of message protocols and data formats! Kafka, Http REST, JMS, TCP/IP, SOAP, FTP/SFTP, SSH, XML, Json and much more.
 
 ### Integration Tests
 
