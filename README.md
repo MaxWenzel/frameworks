@@ -196,6 +196,7 @@ Frameworks and Libraries for the development
 - [Dropwizard](https://www.dropwizard.io/en/latest/): pulls together stable, mature libraries from the Java ecosystem into a simple, light-weight package that lets you focus on getting things done
 - [Pippo](http://www.pippo.ro/): micro web framework in Java, with minimal dependencies and a quick learning curve. The goal of this project is to create a micro web framework in Java that should be easy to use and hack. 
 - [Apache Mina](https://mina.apache.org/): a network application framework which helps users develop high performance and high scalability network applications easily. It provides an abstract event-driven asynchronous API over various transports such as TCP/IP and UDP/IP via Java NIO.
+- [Hilla](https://hilla.dev/)
 
 ### Serializer
 
