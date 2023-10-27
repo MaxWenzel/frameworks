@@ -2,6 +2,12 @@
 
 Frameworks and Libraries for the development
 
+## AI stuff
+
+- [JVector](https://github.com/jbellis/jvector): a pure Java, zero dependency, embedded vector search engine, used by DataStax Astra DB and (soon) Apache Cassandra.
+- [Voyager](https://github.com/spotify/voyager): an approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability.
+- [LangChain4J](https://github.com/langchain4j/langchain4j): LangChai4Java
+
 ## Architecture Support
 
 - [Moduliths](https://github.com/moduliths/moduliths): building modular, monolithic applications using Spring Boot
