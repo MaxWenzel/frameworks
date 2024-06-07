@@ -465,12 +465,14 @@ specification, for building non-blocking applications on the JVM
 
 ## Frameworks
 
+- [Remix](https://remix.run/): a full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience.
+- [Solid](https://www.solidjs.com/): a JavaScript framework for making interactive web applications. With Solid, you can use your existing HTML and JavaScript knowledge to build components that can be reused throughout your app. 
+- [Svelte](https://svelte.dev/): a radical new approach to building user interfaces
 - [Alpine.js](https://github.com/alpinejs/alpine): offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost. You get to keep your DOM, and sprinkle in behavior as you see fit.
 - [Flutter](https://flutter.dev/): Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 - [React](https://reactjs.org/): JavaScript library for building user interfaces
 - [Vue.js](https://vuejs.org/):  a progressive framework for building user interfaces.
 - [Preact](https://preactjs.com/): fast 3kB alternative to React with the same modern API
-- [Svelte](https://svelte.dev/): a radical new approach to building user interfaces
 - [Meteor](https://www.meteor.com/): an open source platform for web, mobile, and desktop
 - [Next.js](https://nextjs.org/):  a free and open source web application framework based on React.js, Node.js, webpack and Babel.js for building server-side rendered and/or static web applications using React
 - [Nuxt.js](https://nuxtjs.org/): an open source framework based on Vue.js
