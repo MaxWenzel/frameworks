@@ -2,6 +2,13 @@
 
 Frameworks and Libraries for the development
 
+## Alternative Languages
+
+- [Zig](https://ziglang.org/): a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
+- [Rust](https://www.rust-lang.org/): a blazingly fast and memory-efficient: with no runtime or garbage collector, it can power performance-critical services, run on embedded devices, and easily integrate with other languages.
+- [Go](https://go.dev/): a expressive, concise, clean, and efficient. Its concurrency mechanisms make it easy to write programs that get the most out of multicore and networked machines, while its novel type system enables flexible and modular program construction.
+- [Elm](https://elm-lang.org/): a functional language that compiles to JavaScript. It helps you make websites and web apps. It has a strong emphasis on simplicity and quality tooling.
+
 ## AI stuff
 
 - [JVector](https://github.com/jbellis/jvector): a pure Java, zero dependency, embedded vector search engine, used by DataStax Astra DB and (soon) Apache Cassandra.
