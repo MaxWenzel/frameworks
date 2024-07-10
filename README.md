@@ -73,7 +73,8 @@ Frameworks and Libraries for the development
 - [Pac4J](https://www.pac4j.org/): security library for Java
 - [Passport](http://www.passportjs.org/): an authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
 - [Bouny Castle](https://www.bouncycastle.org/): crypto library
-- []()
+- [Zitadel](https://zitadel.com/): Identity infrastructure
+- [Okta](okta.com)
 
 ## API Gateways
 
