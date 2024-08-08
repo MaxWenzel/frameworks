@@ -411,6 +411,12 @@ specification, for building non-blocking applications on the JVM
 - [Deno](https://deno.land/): a JavaScript, TypeScript, and WebAssembly runtime with secure defaults and a great developer experience. It's built on V8, Rust, and Tokio.
 - [Node](https://nodejs.org/en/): an open-source, cross-platform JavaScript runtime environment.
 
+### Web Framework
+
+- [Fastify](https://fastify.dev/): a web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture. It is inspired by Hapi and Express and as far as we know, it is one of the fastest web frameworks in town.
+- [Adonis](https://adonisjs.com/):a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
+- [Restify](http://restify.com/): A Node.js web service framework optimized for building semantically correct RESTful web services ready for production use at scale. restify optimizes for introspection and performance, and is used in some of the largest Node.js deployments on Earth.
+
 ### Misc
 
 - [Yjs](https://github.com/yjs/yjs): a CRDT implementation that exposes its internal data structure as shared types. Shared types are common data types like Map or Array with superpowers: changes are automatically distributed to other peers and merged without merge conflicts.
@@ -473,6 +479,7 @@ specification, for building non-blocking applications on the JVM
 
 ## Frameworks
 
+- [Vite](https://vitejs.dev/): a build tool that aims to provide a faster and leaner development experience for modern web projects
 - [Remix](https://remix.run/): a full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience.
 - [Solid](https://www.solidjs.com/): a JavaScript framework for making interactive web applications. With Solid, you can use your existing HTML and JavaScript knowledge to build components that can be reused throughout your app. 
 - [Svelte](https://svelte.dev/): a radical new approach to building user interfaces
