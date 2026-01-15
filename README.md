@@ -351,6 +351,7 @@ specification, for building non-blocking applications on the JVM
 - [MockServer](https://www.mock-server.com/): easy mocking of any system you integrate with via HTTP or HTTPS
 - [MockWebServer](https://github.com/square/okhttp/tree/master/mockwebserver): a scriptable web server for testing HTTP clients (super easy to use with Spring Boot)
 - [Testcontainers](https://www.testcontainers.org/): a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [Testcontainers Spring Boot](https://github.com/PlaytikaOSS/testcontainers-spring-boot): multiple Testcontainers for Spring Boot Apps
 - [Toxyproxy](https://github.com/Shopify/toxiproxy): a framework for simulating network conditions. It's made specifically to work in testing, CI and development environments, supporting deterministic tampering with connections, but with support for randomized chaos and customization. 
 
 ### Resilience
